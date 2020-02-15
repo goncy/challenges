@@ -1,0 +1,14 @@
+{
+  "name": "challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:goncy/challenges.git",
+  "author": "goncy <gonzalo.pozzo4@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.8.4"
+  },
+  "devDependencies": {
+    "@babel/register": "^7.8.3"
+  }
+}

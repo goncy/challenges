@@ -1,0 +1,2 @@
+# Accumulator
+Escribir un algoritmo que, dada una lista de numeros ordenados, te diga si alguna combinacion de dos numeros cualesquiera suman un segundo numero (N). Si un mismo numero sumado dos veces da el segundo parametro, deberia devolver falso;
